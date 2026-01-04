@@ -36,9 +36,9 @@ INT 000 SRC 002 PRT 000 TMD 001 TIN 019 EIN 003
 
 ; Port IA (00h): Button inputs
 ;   Bit 0 › North
-;   Bit 1 › East
+;   Bit 1 › West
 ;   Bit 2 › South
-;   Bit 3 › West
+;   Bit 3 › East
 ;
 ; Port OA (00h): Output to Master CPU (same bit order)
 
